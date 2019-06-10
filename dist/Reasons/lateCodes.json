@@ -1,0 +1,2465 @@
+{
+	"reasons": [{
+			"code": 501,
+			"reasontext": "This train has been delayed by a broken down train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/501"
+		}, {
+			"code": 502,
+			"reasontext": "This train has been delayed by a broken windscreen on the train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/502"
+		}, {
+			"code": 503,
+			"reasontext": "This train has been delayed by a shortage of trains because of accident damage",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/503"
+		}, {
+			"code": 504,
+			"reasontext": "This train has been delayed by a shortage of trains because of extra safety inspections",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/504"
+		}, {
+			"code": 505,
+			"reasontext": "This train has been delayed by a shortage of trains because of vandalism",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/505"
+		}, {
+			"code": 506,
+			"reasontext": "This train has been delayed by a shortage of trains following damage by snow and ice",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/506"
+		}, {
+			"code": 507,
+			"reasontext": "This train has been delayed by more trains than usual needing repairs at the same time",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/507"
+		}, {
+			"code": 508,
+			"reasontext": "This train has been delayed by the train for this service having broken down",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/508"
+		}, {
+			"code": 509,
+			"reasontext": "This train has been delayed by this train breaking down",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/509"
+		}, {
+			"code": 510,
+			"reasontext": "This train has been delayed by a collision between trains",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/510"
+		}, {
+			"code": 511,
+			"reasontext": "This train has been delayed by a collision with the buffers at a station",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/511"
+		}, {
+			"code": 512,
+			"reasontext": "This train has been delayed by a derailed train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/512"
+		}, {
+			"code": 514,
+			"reasontext": "This train has been delayed by a low speed derailment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/514"
+		}, {
+			"code": 515,
+			"reasontext": "This train has been delayed by a train being involved in an accident",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/515"
+		}, {
+			"code": 516,
+			"reasontext": "This train has been delayed by trains being involved in an accident",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/516"
+		}, {
+			"code": 517,
+			"reasontext": "This train has been delayed by a fire at a station",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/517"
+		}, {
+			"code": 518,
+			"reasontext": "This train has been delayed by a fire at a station earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/518"
+		}, {
+			"code": 519,
+			"reasontext": "This train has been delayed by a landslip",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/519"
+		}, {
+			"code": 520,
+			"reasontext": "This train has been delayed by a fire next to the track",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/520"
+		}, {
+			"code": 521,
+			"reasontext": "This train has been delayed by a fire on a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/521"
+		}, {
+			"code": 522,
+			"reasontext": "This train has been delayed by a member of on train staff being taken ill",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/522"
+		}, {
+			"code": 523,
+			"reasontext": "This train has been delayed by a shortage of on train staff",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/523"
+		}, {
+			"code": 524,
+			"reasontext": "This train has been delayed by a shortage of train conductors",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/524"
+		}, {
+			"code": 525,
+			"reasontext": "This train has been delayed by a shortage of train crew",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/525"
+		}, {
+			"code": 526,
+			"reasontext": "This train has been delayed by a shortage of train drivers",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/526"
+		}, {
+			"code": 527,
+			"reasontext": "This train has been delayed by a shortage of train guards",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/527"
+		}, {
+			"code": 528,
+			"reasontext": "This train has been delayed by a shortage of train managers",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/528"
+		}, {
+			"code": 529,
+			"reasontext": "This train has been delayed by severe weather preventing train crew getting to work",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/529"
+		}, {
+			"code": 530,
+			"reasontext": "This train has been delayed by the train conductor being taken ill",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/530"
+		}, {
+			"code": 531,
+			"reasontext": "This train has been delayed by the train driver being taken ill",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/531"
+		}, {
+			"code": 532,
+			"reasontext": "This train has been delayed by the train guard being taken ill",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/532"
+		}, {
+			"code": 533,
+			"reasontext": "This train has been delayed by the train manager being taken ill",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/533"
+		}, {
+			"code": 534,
+			"reasontext": "This train has been delayed by a passenger being taken ill at a station",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/534"
+		}, {
+			"code": 535,
+			"reasontext": "This train has been delayed by a passenger being taken ill on a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/535"
+		}, {
+			"code": 536,
+			"reasontext": "This train has been delayed by a passenger being taken ill on this train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/536"
+		}, {
+			"code": 537,
+			"reasontext": "This train has been delayed by a passenger being taken ill at a station earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/537"
+		}, {
+			"code": 538,
+			"reasontext": "This train has been delayed by a passenger being taken ill on a train earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/538"
+		}, {
+			"code": 539,
+			"reasontext": "This train has been delayed by a passenger being taken ill on this train earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/539"
+		}, {
+			"code": 540,
+			"reasontext": "This train has been delayed by a person being hit by a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/540"
+		}, {
+			"code": 541,
+			"reasontext": "This train has been delayed by a person being hit by a train earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/541"
+		}, {
+			"code": 542,
+			"reasontext": "This train has been delayed by a collision at a level crossing",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/542"
+		}, {
+			"code": 543,
+			"reasontext": "This train has been delayed by a fault with barriers at a level crossing",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/543"
+		}, {
+			"code": 544,
+			"reasontext": "This train has been delayed by a road accident at a level crossing",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/544"
+		}, {
+			"code": 545,
+			"reasontext": "This train has been delayed by a road vehicle colliding with level crossing barriers",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/545"
+		}, {
+			"code": 546,
+			"reasontext": "This train has been delayed by a road vehicle damaging track at a level crossing",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/546"
+		}, {
+			"code": 547,
+			"reasontext": "This train has been delayed by a problem currently under investigation",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/547"
+		}, {
+			"code": 548,
+			"reasontext": "This train has been delayed by a burst water main near the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/548"
+		}, {
+			"code": 549,
+			"reasontext": "This train has been delayed by a chemical spillage near the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/549"
+		}, {
+			"code": 550,
+			"reasontext": "This train has been delayed by a fire near the railway involving gas cylinders",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/550"
+		}, {
+			"code": 551,
+			"reasontext": "This train has been delayed by a fire near the railway suspected to involve gas cylinders",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/551"
+		}, {
+			"code": 552,
+			"reasontext": "This train has been delayed by a fire on property near the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/552"
+		}, {
+			"code": 553,
+			"reasontext": "This train has been delayed by a gas leak near the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/553"
+		}, {
+			"code": 554,
+			"reasontext": "This train has been delayed by a road accident near the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/554"
+		}, {
+			"code": 555,
+			"reasontext": "This train has been delayed by a wartime bomb near the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/555"
+		}, {
+			"code": 556,
+			"reasontext": "This train has been delayed by ambulance service dealing with an incident near the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/556"
+		}, {
+			"code": 557,
+			"reasontext": "This train has been delayed by emergency services dealing with an incident near the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/557"
+		}, {
+			"code": 558,
+			"reasontext": "This train has been delayed by fire brigade dealing with an incident near the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/558"
+		}, {
+			"code": 559,
+			"reasontext": "This train has been delayed by police dealing with an incident near the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/559"
+		}, {
+			"code": 560,
+			"reasontext": "This train has been delayed by a boat colliding with a bridge",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/560"
+		}, {
+			"code": 561,
+			"reasontext": "This train has been delayed by a fault with a swing bridge over a river",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/561"
+		}, {
+			"code": 562,
+			"reasontext": "This train has been delayed by a problem with a river bridge",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/562"
+		}, {
+			"code": 563,
+			"reasontext": "This train has been delayed by a problem with line-side equipment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/563"
+		}, {
+			"code": 564,
+			"reasontext": "This train has been delayed by a security alert at a station",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/564"
+		}, {
+			"code": 565,
+			"reasontext": "This train has been delayed by a security alert on another train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/565"
+		}, {
+			"code": 566,
+			"reasontext": "This train has been delayed by a security alert on this train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/566"
+		}, {
+			"code": 567,
+			"reasontext": "This train has been delayed by a train derailment earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/567"
+		}, {
+			"code": 568,
+			"reasontext": "This train has been delayed by a train derailment yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/568"
+		}, {
+			"code": 569,
+			"reasontext": "This train has been delayed by a fault occurring when attaching a part of a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/569"
+		}, {
+			"code": 570,
+			"reasontext": "This train has been delayed by a fault occurring when attaching a part of this train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/570"
+		}, {
+			"code": 571,
+			"reasontext": "This train has been delayed by a fault occurring when detaching a part of a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/571"
+		}, {
+			"code": 572,
+			"reasontext": "This train has been delayed by a fault occurring when detaching a part of this train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/572"
+		}, {
+			"code": 573,
+			"reasontext": "This train has been delayed by a fault on a train in front of this one",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/573"
+		}, {
+			"code": 574,
+			"reasontext": "This train has been delayed by a fault on this train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/574"
+		}, {
+			"code": 575,
+			"reasontext": "This train has been delayed by this train being late from the depot",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/575"
+		}, {
+			"code": 576,
+			"reasontext": "This train has been delayed by trespassers on the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/576"
+		}, {
+			"code": 577,
+			"reasontext": "This train has been delayed by a bus colliding with a bridge",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/577"
+		}, {
+			"code": 578,
+			"reasontext": "This train has been delayed by a lorry colliding with a bridge",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/578"
+		}, {
+			"code": 579,
+			"reasontext": "This train has been delayed by a road vehicle colliding with a bridge",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/579"
+		}, {
+			"code": 580,
+			"reasontext": "This train has been delayed by a bus colliding with a bridge earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/580"
+		}, {
+			"code": 581,
+			"reasontext": "This train has been delayed by a bus colliding with a bridge earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/581"
+		}, {
+			"code": 582,
+			"reasontext": "This train has been delayed by a lorry colliding with a bridge earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/582"
+		}, {
+			"code": 583,
+			"reasontext": "This train has been delayed by a lorry colliding with a bridge earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/583"
+		}, {
+			"code": 584,
+			"reasontext": "This train has been delayed by a road vehicle colliding with a bridge earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/584"
+		}, {
+			"code": 585,
+			"reasontext": "This train has been delayed by a road vehicle colliding with a bridge earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/585"
+		}, {
+			"code": 586,
+			"reasontext": "This train has been delayed by a broken down train earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/586"
+		}, {
+			"code": 587,
+			"reasontext": "This train has been delayed by an earlier landslip",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/587"
+		}, {
+			"code": 588,
+			"reasontext": "This train has been delayed by a fire next to the track earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/588"
+		}, {
+			"code": 589,
+			"reasontext": "This train has been delayed by a fire on a train earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/589"
+		}, {
+			"code": 590,
+			"reasontext": "This train has been delayed by a coach becoming uncoupled on a train earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/590"
+		}, {
+			"code": 591,
+			"reasontext": "This train has been delayed by a coach becoming uncoupled on a train earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/591"
+		}, {
+			"code": 592,
+			"reasontext": "This train has been delayed by a coach becoming uncoupled on this train earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/592"
+		}, {
+			"code": 593,
+			"reasontext": "This train has been delayed by a coach becoming uncoupled on this train earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/593"
+		}, {
+			"code": 594,
+			"reasontext": "This train has been delayed by a train not stopping at a station it was supposed to earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/594"
+		}, {
+			"code": 595,
+			"reasontext": "This train has been delayed by a train not stopping at a station it was supposed to earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/595"
+		}, {
+			"code": 596,
+			"reasontext": "This train has been delayed by a train not stopping in the correct position at a station earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/596"
+		}, {
+			"code": 597,
+			"reasontext": "This train has been delayed by a train not stopping in the correct position at a station earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/597"
+		}, {
+			"code": 598,
+			"reasontext": "This train has been delayed by a train's automatic braking system being activated earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/598"
+		}, {
+			"code": 599,
+			"reasontext": "This train has been delayed by a train's automatic braking system being activated earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/599"
+		}, {
+			"code": 600,
+			"reasontext": "This train has been delayed by an operational incident earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/600"
+		}, {
+			"code": 601,
+			"reasontext": "This train has been delayed by an operational incident earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/601"
+		}, {
+			"code": 602,
+			"reasontext": "This train has been delayed by this train not stopping at a station it was supposed to earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/602"
+		}, {
+			"code": 603,
+			"reasontext": "This train has been delayed by this train not stopping at a station it was supposed to earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/603"
+		}, {
+			"code": 604,
+			"reasontext": "This train has been delayed by this train not stopping in the correct position at a station earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/604"
+		}, {
+			"code": 605,
+			"reasontext": "This train has been delayed by this train not stopping in the correct position at a station earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/605"
+		}, {
+			"code": 606,
+			"reasontext": "This train has been delayed by this train's automatic braking system being activated earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/606"
+		}, {
+			"code": 607,
+			"reasontext": "This train has been delayed by this train's automatic braking system being activated earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/607"
+		}, {
+			"code": 608,
+			"reasontext": "This train has been delayed by a collision at a level crossing earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/608"
+		}, {
+			"code": 609,
+			"reasontext": "This train has been delayed by a collision at a level crossing yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/609"
+		}, {
+			"code": 610,
+			"reasontext": "This train has been delayed by a fault with barriers at a level crossing earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/610"
+		}, {
+			"code": 611,
+			"reasontext": "This train has been delayed by a fault with barriers at a level crossing yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/611"
+		}, {
+			"code": 612,
+			"reasontext": "This train has been delayed by a road accident at a level crossing earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/612"
+		}, {
+			"code": 613,
+			"reasontext": "This train has been delayed by a road accident at a level crossing yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/613"
+		}, {
+			"code": 614,
+			"reasontext": "This train has been delayed by a road vehicle colliding with level crossing barriers earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/614"
+		}, {
+			"code": 615,
+			"reasontext": "This train has been delayed by a road vehicle colliding with level crossing barriers yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/615"
+		}, {
+			"code": 616,
+			"reasontext": "This train has been delayed by a road vehicle damaging track at a level crossing earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/616"
+		}, {
+			"code": 617,
+			"reasontext": "This train has been delayed by a road vehicle damaging track at a level crossing yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/617"
+		}, {
+			"code": 618,
+			"reasontext": "This train has been delayed by a burst water main near the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/618"
+		}, {
+			"code": 619,
+			"reasontext": "This train has been delayed by a burst water main near the railway yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/619"
+		}, {
+			"code": 620,
+			"reasontext": "This train has been delayed by a chemical spillage near the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/620"
+		}, {
+			"code": 621,
+			"reasontext": "This train has been delayed by a chemical spillage near the railway yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/621"
+		}, {
+			"code": 622,
+			"reasontext": "This train has been delayed by a fire near the railway involving gas cylinders earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/622"
+		}, {
+			"code": 623,
+			"reasontext": "This train has been delayed by a fire near the railway involving gas cylinders yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/623"
+		}, {
+			"code": 624,
+			"reasontext": "This train has been delayed by a fire near the railway suspected to involve gas cylinders earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/624"
+		}, {
+			"code": 625,
+			"reasontext": "This train has been delayed by a fire near the railway suspected to involve gas cylinders yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/625"
+		}, {
+			"code": 626,
+			"reasontext": "This train has been delayed by a fire on property near the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/626"
+		}, {
+			"code": 627,
+			"reasontext": "This train has been delayed by a fire on property near the railway yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/627"
+		}, {
+			"code": 628,
+			"reasontext": "This train has been delayed by a gas leak near the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/628"
+		}, {
+			"code": 629,
+			"reasontext": "This train has been delayed by a gas leak near the railway yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/629"
+		}, {
+			"code": 630,
+			"reasontext": "This train has been delayed by a road accident near the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/630"
+		}, {
+			"code": 631,
+			"reasontext": "This train has been delayed by a road accident near the railway yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/631"
+		}, {
+			"code": 632,
+			"reasontext": "This train has been delayed by a wartime bomb near the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/632"
+		}, {
+			"code": 633,
+			"reasontext": "This train has been delayed by a wartime bomb near the railway yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/633"
+		}, {
+			"code": 634,
+			"reasontext": "This train has been delayed by a wartime bomb which has now been made safe",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/634"
+		}, {
+			"code": 635,
+			"reasontext": "This train has been delayed by ambulance service dealing with an incident near the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/635"
+		}, {
+			"code": 636,
+			"reasontext": "This train has been delayed by ambulance service dealing with an incident near the railway yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/636"
+		}, {
+			"code": 637,
+			"reasontext": "This train has been delayed by emergency services dealing with an incident near the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/637"
+		}, {
+			"code": 638,
+			"reasontext": "This train has been delayed by emergency services dealing with an incident near the railway yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/638"
+		}, {
+			"code": 639,
+			"reasontext": "This train has been delayed by fire brigade dealing with an incident near the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/639"
+		}, {
+			"code": 640,
+			"reasontext": "This train has been delayed by fire brigade dealing with an incident near the railway yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/640"
+		}, {
+			"code": 641,
+			"reasontext": "This train has been delayed by police dealing with an incident near the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/641"
+		}, {
+			"code": 642,
+			"reasontext": "This train has been delayed by police dealing with an incident near the railway yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/642"
+		}, {
+			"code": 643,
+			"reasontext": "This train has been delayed by a boat colliding with a bridge earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/643"
+		}, {
+			"code": 644,
+			"reasontext": "This train has been delayed by a fault with a swing bridge over a river earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/644"
+		}, {
+			"code": 645,
+			"reasontext": "This train has been delayed by a problem with a river bridge earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/645"
+		}, {
+			"code": 646,
+			"reasontext": "This train has been delayed by an earlier problem with line-side equipment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/646"
+		}, {
+			"code": 647,
+			"reasontext": "This train has been delayed by a security alert earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/647"
+		}, {
+			"code": 648,
+			"reasontext": "This train has been delayed by a fault on this train which is now fixed",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/648"
+		}, {
+			"code": 649,
+			"reasontext": "This train has been delayed by trespassers on the railway earlier in this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/649"
+		}, {
+			"code": 650,
+			"reasontext": "This train has been delayed by trespassers on the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/650"
+		}, {
+			"code": 651,
+			"reasontext": "This train has been delayed by a bicycle on the track",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/651"
+		}, {
+			"code": 652,
+			"reasontext": "This train has been delayed by a road vehicle blocking the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/652"
+		}, {
+			"code": 653,
+			"reasontext": "This train has been delayed by a supermarket trolley on the track",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/653"
+		}, {
+			"code": 654,
+			"reasontext": "This train has been delayed by a train hitting an obstruction on the line",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/654"
+		}, {
+			"code": 655,
+			"reasontext": "This train has been delayed by a tree blocking the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/655"
+		}, {
+			"code": 656,
+			"reasontext": "This train has been delayed by an obstruction on the track",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/656"
+		}, {
+			"code": 657,
+			"reasontext": "This train has been delayed by checking reports of an obstruction on the line",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/657"
+		}, {
+			"code": 658,
+			"reasontext": "This train has been delayed by this train hitting an obstruction on the line",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/658"
+		}, {
+			"code": 659,
+			"reasontext": "This train has been delayed by a bicycle on the track earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/659"
+		}, {
+			"code": 660,
+			"reasontext": "This train has been delayed by a bicycle on the track earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/660"
+		}, {
+			"code": 661,
+			"reasontext": "This train has been delayed by a road vehicle blocking the railway earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/661"
+		}, {
+			"code": 662,
+			"reasontext": "This train has been delayed by a road vehicle blocking the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/662"
+		}, {
+			"code": 663,
+			"reasontext": "This train has been delayed by a supermarket trolley on the track earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/663"
+		}, {
+			"code": 664,
+			"reasontext": "This train has been delayed by a supermarket trolley on the track earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/664"
+		}, {
+			"code": 665,
+			"reasontext": "This train has been delayed by a train hitting an obstruction on the line earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/665"
+		}, {
+			"code": 666,
+			"reasontext": "This train has been delayed by a train hitting an obstruction on the line earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/666"
+		}, {
+			"code": 667,
+			"reasontext": "This train has been delayed by a tree blocking the railway earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/667"
+		}, {
+			"code": 668,
+			"reasontext": "This train has been delayed by a tree blocking the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/668"
+		}, {
+			"code": 669,
+			"reasontext": "This train has been delayed by an obstruction on the track earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/669"
+		}, {
+			"code": 670,
+			"reasontext": "This train has been delayed by an obstruction on the track earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/670"
+		}, {
+			"code": 671,
+			"reasontext": "This train has been delayed by checking reports of an obstruction on the line earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/671"
+		}, {
+			"code": 672,
+			"reasontext": "This train has been delayed by checking reports of an obstruction on the line earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/672"
+		}, {
+			"code": 673,
+			"reasontext": "This train has been delayed by this train hitting an obstruction on the line earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/673"
+		}, {
+			"code": 674,
+			"reasontext": "This train has been delayed by this train hitting an obstruction on the line earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/674"
+		}, {
+			"code": 675,
+			"reasontext": "This train has been delayed by this train hitting an obstruction on the line earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/675"
+		}, {
+			"code": 676,
+			"reasontext": "This train has been delayed by a coach becoming uncoupled on a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/676"
+		}, {
+			"code": 677,
+			"reasontext": "This train has been delayed by a coach becoming uncoupled on this train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/677"
+		}, {
+			"code": 678,
+			"reasontext": "This train has been delayed by a train not stopping at a station it was supposed to",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/678"
+		}, {
+			"code": 679,
+			"reasontext": "This train has been delayed by a train not stopping in the correct position at a station",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/679"
+		}, {
+			"code": 680,
+			"reasontext": "This train has been delayed by a train's automatic braking system being activated",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/680"
+		}, {
+			"code": 681,
+			"reasontext": "This train has been delayed by an operational incident",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/681"
+		}, {
+			"code": 682,
+			"reasontext": "This train has been delayed by this train not stopping at a station it was supposed to",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/682"
+		}, {
+			"code": 683,
+			"reasontext": "This train has been delayed by this train not stopping in the correct position at a station",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/683"
+		}, {
+			"code": 684,
+			"reasontext": "This train has been delayed by this train's automatic braking system being activated",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/684"
+		}, {
+			"code": 685,
+			"reasontext": "This train has been delayed by overcrowding",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/685"
+		}, {
+			"code": 686,
+			"reasontext": "This train has been delayed by overcrowding as this train has fewer coaches than normal",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/686"
+		}, {
+			"code": 687,
+			"reasontext": "This train has been delayed by overcrowding because an earlier train had fewer coaches than normal",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/687"
+		}, {
+			"code": 688,
+			"reasontext": "This train has been delayed by overcrowding because of a concert",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/688"
+		}, {
+			"code": 689,
+			"reasontext": "This train has been delayed by overcrowding because of a football match",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/689"
+		}, {
+			"code": 690,
+			"reasontext": "This train has been delayed by overcrowding because of a marathon",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/690"
+		}, {
+			"code": 691,
+			"reasontext": "This train has been delayed by overcrowding because of a rugby match",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/691"
+		}, {
+			"code": 692,
+			"reasontext": "This train has been delayed by overcrowding because of a sporting event",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/692"
+		}, {
+			"code": 693,
+			"reasontext": "This train has been delayed by overcrowding because of an earlier cancellation",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/693"
+		}, {
+			"code": 694,
+			"reasontext": "This train has been delayed by overcrowding because of an event",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/694"
+		}, {
+			"code": 695,
+			"reasontext": "This train has been delayed by overcrowding earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/695"
+		}, {
+			"code": 696,
+			"reasontext": "This train has been delayed by animals on the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/696"
+		}, {
+			"code": 697,
+			"reasontext": "This train has been delayed by cattle on the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/697"
+		}, {
+			"code": 698,
+			"reasontext": "This train has been delayed by horses on the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/698"
+		}, {
+			"code": 699,
+			"reasontext": "This train has been delayed by sheep on the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/699"
+		}, {
+			"code": 700,
+			"reasontext": "This train has been delayed by animals on the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/700"
+		}, {
+			"code": 701,
+			"reasontext": "This train has been delayed by cattle on the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/701"
+		}, {
+			"code": 702,
+			"reasontext": "This train has been delayed by horses on the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/702"
+		}, {
+			"code": 703,
+			"reasontext": "This train has been delayed by sheep on the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/703"
+		}, {
+			"code": 704,
+			"reasontext": "This train has been delayed by passengers causing a disturbance on a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/704"
+		}, {
+			"code": 705,
+			"reasontext": "This train has been delayed by passengers causing a disturbance on this train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/705"
+		}, {
+			"code": 706,
+			"reasontext": "This train has been delayed by passengers causing a disturbance earlier in this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/706"
+		}, {
+			"code": 707,
+			"reasontext": "This train has been delayed by passengers causing a disturbance on a train earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/707"
+		}, {
+			"code": 708,
+			"reasontext": "This train has been delayed by a fault with the electric third rail earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/708"
+		}, {
+			"code": 709,
+			"reasontext": "This train has been delayed by a fault with the electric third rail earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/709"
+		}, {
+			"code": 710,
+			"reasontext": "This train has been delayed by damage to the electric third rail earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/710"
+		}, {
+			"code": 711,
+			"reasontext": "This train has been delayed by damage to the electric third rail earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/711"
+		}, {
+			"code": 712,
+			"reasontext": "This train has been delayed by failure of the electricity supply earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/712"
+		}, {
+			"code": 713,
+			"reasontext": "This train has been delayed by failure of the electricity supply earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/713"
+		}, {
+			"code": 714,
+			"reasontext": "This train has been delayed by the electricity being switched off for safety reasons earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/714"
+		}, {
+			"code": 715,
+			"reasontext": "This train has been delayed by the electricity being switched off for safety reasons earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/715"
+		}, {
+			"code": 716,
+			"reasontext": "This train has been delayed by urgent repairs to a bridge earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/716"
+		}, {
+			"code": 717,
+			"reasontext": "This train has been delayed by urgent repairs to a tunnel earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/717"
+		}, {
+			"code": 718,
+			"reasontext": "This train has been delayed by urgent repairs to the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/718"
+		}, {
+			"code": 719,
+			"reasontext": "This train has been delayed by urgent repairs to the track earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/719"
+		}, {
+			"code": 720,
+			"reasontext": "This train has been delayed by expected industrial action earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/720"
+		}, {
+			"code": 721,
+			"reasontext": "This train has been delayed by expected industrial action yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/721"
+		}, {
+			"code": 722,
+			"reasontext": "This train has been delayed by industrial action earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/722"
+		}, {
+			"code": 723,
+			"reasontext": "This train has been delayed by industrial action yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/723"
+		}, {
+			"code": 724,
+			"reasontext": "This train has been delayed by an object being caught on the overhead electric wires earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/724"
+		}, {
+			"code": 725,
+			"reasontext": "This train has been delayed by an object being caught on the overhead electric wires earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/725"
+		}, {
+			"code": 726,
+			"reasontext": "This train has been delayed by damage to the overhead electric wires earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/726"
+		}, {
+			"code": 727,
+			"reasontext": "This train has been delayed by damage to the overhead electric wires earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/727"
+		}, {
+			"code": 728,
+			"reasontext": "This train has been delayed by earlier engineering works not being finished on time",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/728"
+		}, {
+			"code": 729,
+			"reasontext": "This train has been delayed by a fault with the on train signalling system earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/729"
+		}, {
+			"code": 730,
+			"reasontext": "This train has been delayed by a fault with the on train signalling system earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/730"
+		}, {
+			"code": 733,
+			"reasontext": "This train has been delayed by a fault with the signalling system earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/733"
+		}, {
+			"code": 734,
+			"reasontext": "This train has been delayed by a fault with the signalling system earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/734"
+		}, {
+			"code": 737,
+			"reasontext": "This train has been delayed by the fire alarm sounding in a signalbox earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/737"
+		}, {
+			"code": 738,
+			"reasontext": "This train has been delayed by the fire alarm sounding in a signalbox earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/738"
+		}, {
+			"code": 739,
+			"reasontext": "This train has been delayed by the fire alarm sounding in the signalling centre earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/739"
+		}, {
+			"code": 740,
+			"reasontext": "This train has been delayed by the fire alarm sounding in the signalling centre earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/740"
+		}, {
+			"code": 741,
+			"reasontext": "This train has been delayed by attempted theft of overhead line electrification equipment earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/741"
+		}, {
+			"code": 742,
+			"reasontext": "This train has been delayed by attempted theft of overhead line electrification equipment yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/742"
+		}, {
+			"code": 743,
+			"reasontext": "This train has been delayed by attempted theft of railway equipment earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/743"
+		}, {
+			"code": 744,
+			"reasontext": "This train has been delayed by attempted theft of railway equipment yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/744"
+		}, {
+			"code": 745,
+			"reasontext": "This train has been delayed by attempted theft of signalling cables earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/745"
+		}, {
+			"code": 746,
+			"reasontext": "This train has been delayed by attempted theft of signalling cables yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/746"
+		}, {
+			"code": 747,
+			"reasontext": "This train has been delayed by attempted theft of third rail electrification equipment earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/747"
+		}, {
+			"code": 748,
+			"reasontext": "This train has been delayed by attempted theft of third rail electrification equipment yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/748"
+		}, {
+			"code": 749,
+			"reasontext": "This train has been delayed by theft of overhead line electrification equipment earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/749"
+		}, {
+			"code": 750,
+			"reasontext": "This train has been delayed by theft of overhead line electrification equipment yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/750"
+		}, {
+			"code": 751,
+			"reasontext": "This train has been delayed by theft of railway equipment earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/751"
+		}, {
+			"code": 752,
+			"reasontext": "This train has been delayed by theft of railway equipment yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/752"
+		}, {
+			"code": 753,
+			"reasontext": "This train has been delayed by theft of signalling cables earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/753"
+		}, {
+			"code": 754,
+			"reasontext": "This train has been delayed by theft of signalling cables yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/754"
+		}, {
+			"code": 755,
+			"reasontext": "This train has been delayed by theft of third rail electrification equipment earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/755"
+		}, {
+			"code": 756,
+			"reasontext": "This train has been delayed by theft of third rail electrification equipment yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/756"
+		}, {
+			"code": 757,
+			"reasontext": "This train has been delayed by vandalism at a station earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/757"
+		}, {
+			"code": 758,
+			"reasontext": "This train has been delayed by vandalism at a station yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/758"
+		}, {
+			"code": 759,
+			"reasontext": "This train has been delayed by vandalism of railway equipment earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/759"
+		}, {
+			"code": 760,
+			"reasontext": "This train has been delayed by vandalism of railway equipment yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/760"
+		}, {
+			"code": 761,
+			"reasontext": "This train has been delayed by vandalism on a train earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/761"
+		}, {
+			"code": 762,
+			"reasontext": "This train has been delayed by vandalism on a train yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/762"
+		}, {
+			"code": 763,
+			"reasontext": "This train has been delayed by vandalism on this train earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/763"
+		}, {
+			"code": 764,
+			"reasontext": "This train has been delayed by vandalism on this train yesterday",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/764"
+		}, {
+			"code": 765,
+			"reasontext": "This train has been delayed by a fault with the electric third rail",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/765"
+		}, {
+			"code": 766,
+			"reasontext": "This train has been delayed by damage to the electric third rail",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/766"
+		}, {
+			"code": 767,
+			"reasontext": "This train has been delayed by failure of the electricity supply",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/767"
+		}, {
+			"code": 768,
+			"reasontext": "This train has been delayed by the electricity being switched off for safety reasons",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/768"
+		}, {
+			"code": 769,
+			"reasontext": "This train has been delayed by urgent repairs to a bridge",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/769"
+		}, {
+			"code": 770,
+			"reasontext": "This train has been delayed by urgent repairs to a tunnel",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/770"
+		}, {
+			"code": 771,
+			"reasontext": "This train has been delayed by urgent repairs to the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/771"
+		}, {
+			"code": 772,
+			"reasontext": "This train has been delayed by urgent repairs to the track",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/772"
+		}, {
+			"code": 773,
+			"reasontext": "This train has been delayed by the emergency services dealing with an incident earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/773"
+		}, {
+			"code": 774,
+			"reasontext": "This train has been delayed by ambulance service dealing with an incident",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/774"
+		}, {
+			"code": 775,
+			"reasontext": "This train has been delayed by fire brigade dealing with an incident",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/775"
+		}, {
+			"code": 776,
+			"reasontext": "This train has been delayed by police dealing with an incident",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/776"
+		}, {
+			"code": 777,
+			"reasontext": "This train has been delayed by the emergency services dealing with an incident",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/777"
+		}, {
+			"code": 778,
+			"reasontext": "This train has been delayed by the fire alarm sounding at a station",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/778"
+		}, {
+			"code": 779,
+			"reasontext": "This train has been delayed by the fire alarm sounding at a station earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/779"
+		}, {
+			"code": 780,
+			"reasontext": "This train has been delayed by a burst water main flooding the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/780"
+		}, {
+			"code": 781,
+			"reasontext": "This train has been delayed by a river flooding the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/781"
+		}, {
+			"code": 782,
+			"reasontext": "This train has been delayed by flood water making the railway potentially unsafe",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/782"
+		}, {
+			"code": 783,
+			"reasontext": "This train has been delayed by flooding",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/783"
+		}, {
+			"code": 784,
+			"reasontext": "This train has been delayed by heavy rain flooding the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/784"
+		}, {
+			"code": 785,
+			"reasontext": "This train has been delayed by predicted flooding",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/785"
+		}, {
+			"code": 786,
+			"reasontext": "This train has been delayed by the sea flooding the railway",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/786"
+		}, {
+			"code": 787,
+			"reasontext": "This train has been delayed by a burst water main flooding the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/787"
+		}, {
+			"code": 788,
+			"reasontext": "This train has been delayed by a river flooding the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/788"
+		}, {
+			"code": 789,
+			"reasontext": "This train has been delayed by flood water making the railway potentially unsafe earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/789"
+		}, {
+			"code": 790,
+			"reasontext": "This train has been delayed by flooding earlier in this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/790"
+		}, {
+			"code": 791,
+			"reasontext": "This train has been delayed by flooding earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/791"
+		}, {
+			"code": 792,
+			"reasontext": "This train has been delayed by heavy rain flooding the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/792"
+		}, {
+			"code": 793,
+			"reasontext": "This train has been delayed by predicted flooding earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/793"
+		}, {
+			"code": 794,
+			"reasontext": "This train has been delayed by the sea flooding the railway earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/794"
+		}, {
+			"code": 795,
+			"reasontext": "This train has been delayed by thick fog",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/795"
+		}, {
+			"code": 796,
+			"reasontext": "This train has been delayed by thick fog earlier in this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/796"
+		}, {
+			"code": 797,
+			"reasontext": "This train has been delayed by thick fog earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/797"
+		}, {
+			"code": 798,
+			"reasontext": "This train has been delayed by forecasted high winds",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/798"
+		}, {
+			"code": 799,
+			"reasontext": "This train has been delayed by high winds",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/799"
+		}, {
+			"code": 800,
+			"reasontext": "This train has been delayed by high winds earlier in this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/800"
+		}, {
+			"code": 801,
+			"reasontext": "This train has been delayed by high winds earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/801"
+		}, {
+			"code": 802,
+			"reasontext": "This train has been delayed by expected industrial action",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/802"
+		}, {
+			"code": 803,
+			"reasontext": "This train has been delayed by industrial action",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/803"
+		}, {
+			"code": 804,
+			"reasontext": "This train has been delayed by lightning damaging a station",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/804"
+		}, {
+			"code": 805,
+			"reasontext": "This train has been delayed by lightning damaging a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/805"
+		}, {
+			"code": 806,
+			"reasontext": "This train has been delayed by lightning damaging equipment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/806"
+		}, {
+			"code": 807,
+			"reasontext": "This train has been delayed by lightning damaging the electricity supply",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/807"
+		}, {
+			"code": 808,
+			"reasontext": "This train has been delayed by lightning damaging the signalling system",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/808"
+		}, {
+			"code": 809,
+			"reasontext": "This train has been delayed by lightning damaging this train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/809"
+		}, {
+			"code": 810,
+			"reasontext": "This train has been delayed by an object being caught on the overhead electric wires",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/810"
+		}, {
+			"code": 811,
+			"reasontext": "This train has been delayed by damage to the overhead electric wires",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/811"
+		}, {
+			"code": 812,
+			"reasontext": "This train has been delayed by engineering works not being finished on time",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/812"
+		}, {
+			"code": 813,
+			"reasontext": "This train has been delayed by forecasted slippery rails",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/813"
+		}, {
+			"code": 814,
+			"reasontext": "This train has been delayed by ice preventing this train getting electricity from the third rail",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/814"
+		}, {
+			"code": 815,
+			"reasontext": "This train has been delayed by ice preventing trains getting electricity from the third rail",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/815"
+		}, {
+			"code": 816,
+			"reasontext": "This train has been delayed by slippery rails",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/816"
+		}, {
+			"code": 817,
+			"reasontext": "This train has been delayed by slippery rails earlier in this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/817"
+		}, {
+			"code": 818,
+			"reasontext": "This train has been delayed by slippery rails earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/818"
+		}, {
+			"code": 819,
+			"reasontext": "This train has been delayed by forecasted severe weather",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/819"
+		}, {
+			"code": 820,
+			"reasontext": "This train has been delayed by severe weather",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/820"
+		}, {
+			"code": 821,
+			"reasontext": "This train has been delayed by severe weather earlier",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/821"
+		}, {
+			"code": 822,
+			"reasontext": "This train has been delayed by severe weather earlier in this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/822"
+		}, {
+			"code": 823,
+			"reasontext": "This train has been delayed by severe weather earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/823"
+		}, {
+			"code": 824,
+			"reasontext": "This train has been delayed by a safety inspection of the track",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/824"
+		}, {
+			"code": 825,
+			"reasontext": "This train has been delayed by a safety inspection on a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/825"
+		}, {
+			"code": 826,
+			"reasontext": "This train has been delayed by a safety inspection on this train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/826"
+		}, {
+			"code": 827,
+			"reasontext": "This train has been delayed by a safety inspection of the track earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/827"
+		}, {
+			"code": 828,
+			"reasontext": "This train has been delayed by a safety inspection on a train earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/828"
+		}, {
+			"code": 829,
+			"reasontext": "This train has been delayed by a safety inspection on this train earlier in its journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/829"
+		}, {
+			"code": 830,
+			"reasontext": "This train has been delayed by a fault with the on train signalling system",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/830"
+		}, {
+			"code": 831,
+			"reasontext": "This train has been delayed by a fault with the radio system between the driver and the signaller",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/831"
+		}, {
+			"code": 832,
+			"reasontext": "This train has been delayed by a fault with the signalling system",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/832"
+		}, {
+			"code": 834,
+			"reasontext": "This train has been delayed by the fire alarm sounding in a signalbox",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/834"
+		}, {
+			"code": 835,
+			"reasontext": "This train has been delayed by the fire alarm sounding in the signalling centre",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/835"
+		}, {
+			"code": 836,
+			"reasontext": "This train has been delayed by forecasted heavy snow",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/836"
+		}, {
+			"code": 837,
+			"reasontext": "This train has been delayed by heavy snow",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/837"
+		}, {
+			"code": 838,
+			"reasontext": "This train has been delayed by heavy snow earlier in this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/838"
+		}, {
+			"code": 839,
+			"reasontext": "This train has been delayed by heavy snow earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/839"
+		}, {
+			"code": 840,
+			"reasontext": "This train has been delayed by heavy snow over recent days",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/840"
+		}, {
+			"code": 841,
+			"reasontext": "This train has been delayed by a speed restriction",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/841"
+		}, {
+			"code": 842,
+			"reasontext": "This train has been delayed by a speed restriction because of fog",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/842"
+		}, {
+			"code": 843,
+			"reasontext": "This train has been delayed by a speed restriction because of fog earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/843"
+		}, {
+			"code": 844,
+			"reasontext": "This train has been delayed by a speed restriction because of fog earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/844"
+		}, {
+			"code": 845,
+			"reasontext": "This train has been delayed by a speed restriction because of heavy rain",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/845"
+		}, {
+			"code": 846,
+			"reasontext": "This train has been delayed by a speed restriction because of heavy rain earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/846"
+		}, {
+			"code": 847,
+			"reasontext": "This train has been delayed by a speed restriction because of heavy rain earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/847"
+		}, {
+			"code": 848,
+			"reasontext": "This train has been delayed by a speed restriction because of high track temperatures",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/848"
+		}, {
+			"code": 849,
+			"reasontext": "This train has been delayed by a speed restriction because of high track temperatures earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/849"
+		}, {
+			"code": 850,
+			"reasontext": "This train has been delayed by a speed restriction because of high track temperatures earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/850"
+		}, {
+			"code": 851,
+			"reasontext": "This train has been delayed by a speed restriction because of high winds",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/851"
+		}, {
+			"code": 852,
+			"reasontext": "This train has been delayed by a speed restriction because of high winds earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/852"
+		}, {
+			"code": 853,
+			"reasontext": "This train has been delayed by a speed restriction because of high winds earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/853"
+		}, {
+			"code": 854,
+			"reasontext": "This train has been delayed by a speed restriction because of severe weather",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/854"
+		}, {
+			"code": 855,
+			"reasontext": "This train has been delayed by a speed restriction because of severe weather earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/855"
+		}, {
+			"code": 856,
+			"reasontext": "This train has been delayed by a speed restriction because of severe weather earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/856"
+		}, {
+			"code": 857,
+			"reasontext": "This train has been delayed by a speed restriction because of snow and ice",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/857"
+		}, {
+			"code": 858,
+			"reasontext": "This train has been delayed by a speed restriction because of snow and ice earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/858"
+		}, {
+			"code": 859,
+			"reasontext": "This train has been delayed by a speed restriction because of snow and ice earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/859"
+		}, {
+			"code": 860,
+			"reasontext": "This train has been delayed by a speed restriction earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/860"
+		}, {
+			"code": 861,
+			"reasontext": "This train has been delayed by a speed restriction earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/861"
+		}, {
+			"code": 862,
+			"reasontext": "This train has been delayed by a speed restriction in a tunnel",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/862"
+		}, {
+			"code": 863,
+			"reasontext": "This train has been delayed by a speed restriction in a tunnel earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/863"
+		}, {
+			"code": 864,
+			"reasontext": "This train has been delayed by a speed restriction in a tunnel earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/864"
+		}, {
+			"code": 865,
+			"reasontext": "This train has been delayed by a speed restriction over a bridge",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/865"
+		}, {
+			"code": 866,
+			"reasontext": "This train has been delayed by a speed restriction over a bridge earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/866"
+		}, {
+			"code": 867,
+			"reasontext": "This train has been delayed by a speed restriction over a bridge earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/867"
+		}, {
+			"code": 868,
+			"reasontext": "This train has been delayed by a speed restriction over an embankment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/868"
+		}, {
+			"code": 869,
+			"reasontext": "This train has been delayed by a speed restriction over an embankment earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/869"
+		}, {
+			"code": 870,
+			"reasontext": "This train has been delayed by a speed restriction over an embankment earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/870"
+		}, {
+			"code": 871,
+			"reasontext": "This train has been delayed by a speed restriction over defective track",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/871"
+		}, {
+			"code": 872,
+			"reasontext": "This train has been delayed by a speed restriction over defective track earlier on this train's journey",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/872"
+		}, {
+			"code": 873,
+			"reasontext": "This train has been delayed by a speed restriction over defective track earlier today",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/873"
+		}, {
+			"code": 874,
+			"reasontext": "This train has been delayed by attempted theft of overhead line electrification equipment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/874"
+		}, {
+			"code": 875,
+			"reasontext": "This train has been delayed by attempted theft of railway equipment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/875"
+		}, {
+			"code": 876,
+			"reasontext": "This train has been delayed by attempted theft of signalling cables",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/876"
+		}, {
+			"code": 877,
+			"reasontext": "This train has been delayed by attempted theft of third rail electrification equipment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/877"
+		}, {
+			"code": 878,
+			"reasontext": "This train has been delayed by theft of overhead line electrification equipment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/878"
+		}, {
+			"code": 879,
+			"reasontext": "This train has been delayed by theft of railway equipment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/879"
+		}, {
+			"code": 880,
+			"reasontext": "This train has been delayed by theft of signalling cables",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/880"
+		}, {
+			"code": 881,
+			"reasontext": "This train has been delayed by theft of third rail electrification equipment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/881"
+		}, {
+			"code": 882,
+			"reasontext": "This train has been delayed by vandalism at a station",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/882"
+		}, {
+			"code": 883,
+			"reasontext": "This train has been delayed by vandalism of railway equipment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/883"
+		}, {
+			"code": 884,
+			"reasontext": "This train has been delayed by vandalism on a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/884"
+		}, {
+			"code": 885,
+			"reasontext": "This train has been delayed by vandalism on this train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/885"
+		}, {
+			"code": 886,
+			"reasontext": "This train has been delayed by train crew being delayed",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/886"
+		}, {
+			"code": 887,
+			"reasontext": "This train has been delayed by train crew being delayed by service disruption",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/887"
+		}, {
+			"code": 888,
+			"reasontext": "This train has been delayed by a bridge being damaged",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/888"
+		}, {
+			"code": 889,
+			"reasontext": "This train has been delayed by a bridge being damaged by a boat",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/889"
+		}, {
+			"code": 890,
+			"reasontext": "This train has been delayed by a bridge being damaged by a road vehicle",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/890"
+		}, {
+			"code": 891,
+			"reasontext": "This train has been delayed by a bridge having collapsed",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/891"
+		}, {
+			"code": 892,
+			"reasontext": "This train has been delayed by a broken rail",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/892"
+		}, {
+			"code": 893,
+			"reasontext": "This train has been delayed by a late departure while the train was cleaned specially",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/893"
+		}, {
+			"code": 894,
+			"reasontext": "This train has been delayed by a late running freight train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/894"
+		}, {
+			"code": 895,
+			"reasontext": "This train has been delayed by a late running train being in front of this one",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/895"
+		}, {
+			"code": 896,
+			"reasontext": "This train has been delayed by a points failure",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/896"
+		}, {
+			"code": 897,
+			"reasontext": "This train has been delayed by a power cut at the station",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/897"
+		}, {
+			"code": 898,
+			"reasontext": "This train has been delayed by a problem with the station lighting",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/898"
+		}, {
+			"code": 899,
+			"reasontext": "This train has been delayed by a rail buckling in the heat",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/899"
+		}, {
+			"code": 900,
+			"reasontext": "This train has been delayed by a railway embankment being damaged",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/900"
+		}, {
+			"code": 901,
+			"reasontext": "This train has been delayed by a shortage of station staff",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/901"
+		}, {
+			"code": 902,
+			"reasontext": "This train has been delayed by a tunnel being closed for safety reasons",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/902"
+		}, {
+			"code": 903,
+			"reasontext": "This train has been delayed by an incident at the airport",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/903"
+		}, {
+			"code": 904,
+			"reasontext": "This train has been delayed by congestion",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/904"
+		}, {
+			"code": 905,
+			"reasontext": "This train has been delayed by the communication alarm being activated on a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/905"
+		}, {
+			"code": 906,
+			"reasontext": "This train has been delayed by the communication alarm being activated on this train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/906"
+		}, {
+			"code": 907,
+			"reasontext": "This train has been delayed by the train departing late to maintain customer connections",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/907"
+		}, {
+			"code": 908,
+			"reasontext": "This train has been delayed by the train making extra stops because a train was cancelled",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/908"
+		}, {
+			"code": 909,
+			"reasontext": "This train has been delayed by the train making extra stops because of service disruption",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/909"
+		}, {
+			"code": 910,
+			"reasontext": "This train has been delayed by waiting for a part of the train to be attached",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/910"
+		}, {
+			"code": 911,
+			"reasontext": "This train has been delayed by a fault on a train",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/911"
+		}, {
+			"code": 912,
+			"reasontext": "This train has been delayed by a problem with platform equipment",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/912"
+		}, {
+			"code": 913,
+			"reasontext": "This train has been delayed by a fault on a train earlier",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/913"
+		}, {
+			"code": 914,
+			"reasontext": "This train has been delayed by issues with communication systems",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/914"
+		}, {
+			"code": 915,
+			"reasontext": "This train has been delayed by a problem in depot",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/915"
+		}, {
+			"code": 916,
+			"reasontext": "This train has been delayed by signalling staff being unavailable",
+			"canc": false,
+			"date": "2019-03-22T19:27:20.643122402Z",
+			"self": "https://ref.a.a51.li/reason/late/916"
+		}
+	],
+	"self": "https://ref.a.a51.li/reason/late"
+}

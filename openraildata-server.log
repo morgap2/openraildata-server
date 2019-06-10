@@ -1,0 +1,182 @@
+[2019-06-10T17:02:50.614] [DEBUG] default - Starting OpenRailData Server
+[2019-06-10T17:02:50.616] [DEBUG] default - Loading Stanox Mapping
+[2019-06-10T17:02:50.890] [DEBUG] default - Loading Late Codes
+[2019-06-10T17:02:50.896] [DEBUG] default - Loading Cancellation Codes
+[2019-06-10T17:02:50.898] [DEBUG] default - Trying to connect...
+[2019-06-10T17:02:51.077] [DEBUG] default - Connected with session ID: ID:opendata-prod.rockshore.net-41699-1560170191999-2:5446
+[2019-06-10T17:02:51.077] [DEBUG] default - Subscribing to: /topic/TRAIN_MVT_EF_TOC
+[2019-06-10T17:02:53.906] [DEBUG] default - Event DEPARTURE Position PORTOBELLO JN Expected 6:04:00 pm Actual 6:02:00 pm Next Position ROYAL OAK JUNCTION
+[2019-06-10T17:02:53.906] [DEBUG] default - Event ARRIVAL Position SOUTHALL Expected 6:02:00 pm Actual 6:03:00 pm Next Position ACTON WEST
+[2019-06-10T17:02:53.906] [DEBUG] default - Event DEPARTURE Position WOOTTON BASSETT JN Expected 6:02:00 pm Actual 6:02:00 pm Next Position CHIPPENHAM
+[2019-06-10T17:02:53.906] [DEBUG] default - Event DEPARTURE Position PANGBOURNE Expected 6:01:30 pm Actual 6:01:00 pm Next Position GORING & STREATLEY
+[2019-06-10T17:02:53.907] [DEBUG] default - Event DEPARTURE Position READING Expected 6:01:00 pm Actual 6:02:00 pm Next Position READING WEST JUNCTION
+[2019-06-10T17:02:53.907] [DEBUG] default - Event DEPARTURE Position MORETON-IN-MARSH Expected 6:02:30 pm Actual 6:02:00 pm Next Position HONEYBOURNE
+[2019-06-10T17:02:53.907] [DEBUG] default - Event DEPARTURE Position DIDCOT PARKWAY Expected 6:02:00 pm Actual 6:02:00 pm Next Position DIDCOT EAST JN
+[2019-06-10T17:02:53.907] [DEBUG] default - Event DEPARTURE Position DIDCOT EAST JN Expected 6:03:00 pm Actual 6:03:00 pm Next Position CHOLSEY
+[2019-06-10T17:02:53.907] [DEBUG] default - Event DEPARTURE Position BRIGHTON  SIGNAL T 674 Expected 6:02:00 pm Actual 6:02:00 pm Next Position HOVE
+[2019-06-10T17:02:53.907] [DEBUG] default - Event DEPARTURE Position BRIDGEND Expected 6:02:30 pm Actual 6:02:00 pm Next Position PONTYCLUN
+[2019-06-10T17:03:03.901] [DEBUG] default - Event ARRIVAL Position BATH SPA Expected 5:59:00 pm Actual 6:03:00 pm Next Position NORTH SOMERSET JN
+[2019-06-10T17:03:03.901] [DEBUG] default - Event ARRIVAL Position PILNING Expected 6:03:30 pm Actual 6:03:00 pm Next Position PATCHWAY
+[2019-06-10T17:03:03.902] [DEBUG] default - Event DEPARTURE Position SOUTHALL Expected 5:56:00 pm Actual 6:02:00 pm Next Position HAYES & HARLINGTON
+[2019-06-10T17:03:03.902] [DEBUG] default - Event ARRIVAL Position GORING & STREATLEY Expected 6:03:30 pm Actual 6:04:00 pm Next Position DIDCOT PARKWAY
+[2019-06-10T17:03:03.902] [DEBUG] default - Event ARRIVAL Position YATE Expected 6:02:00 pm Actual 6:03:00 pm Next Position CHARFIELD
+[2019-06-10T17:03:03.902] [DEBUG] default - Event DEPARTURE Position OXFORD CARRIAGE SIDING 2 Expected 6:01:00 pm Actual 6:02:00 pm Next Position OXFORD
+[2019-06-10T17:03:03.902] [DEBUG] default - Event ARRIVAL Position OXFORD Expected 6:03:00 pm Actual 6:04:00 pm Next Position 
+[2019-06-10T17:03:03.902] [DEBUG] default - Event ARRIVAL Position APPLEFORD XNG SIGNALLING Expected 6:03:30 pm Actual 6:03:00 pm Next Position CULHAM
+[2019-06-10T17:03:03.902] [DEBUG] default - Event DEPARTURE Position COWLEY BRIDGE JN Expected 6:01:00 pm Actual 6:03:00 pm Next Position CREDITON
+[2019-06-10T17:03:13.902] [DEBUG] default - Event ARRIVAL Position DOWN BAY SIDING Expected 6:03:30 pm Actual 6:03:00 pm Next Position NORTHAM JUNCTION
+[2019-06-10T17:03:13.903] [DEBUG] default - Event ARRIVAL Position DAWLISH WARREN Expected 6:03:30 pm Actual 6:03:00 pm Next Position EXETER ST DAVIDS
+[2019-06-10T17:03:13.903] [DEBUG] default - Event ARRIVAL Position ST IVES CORNWALL Expected 5:59:00 pm Actual 5:59:00 pm Next Position 
+[2019-06-10T17:03:13.903] [DEBUG] default - Event DEPARTURE Position ST IVES CORNWALL Expected 6:03:00 pm Actual 6:03:00 pm Next Position CARBIS BAY
+[2019-06-10T17:03:13.903] [DEBUG] default - Event DEPARTURE Position BRISTOL EAST JN Expected 5:56:30 pm Actual 6:03:00 pm Next Position DR DAY'S JN
+[2019-06-10T17:03:13.903] [DEBUG] default - Event DEPARTURE Position BRISTOL TM PLAT 2 MOTORAIL DK Expected 5:55:30 pm Actual 6:02:00 pm Next Position BRISTOL EAST JN
+[2019-06-10T17:03:13.903] [DEBUG] default - Event DEPARTURE Position READING TRAINCARE DEPOT Expected 6:01:00 pm Actual 6:02:00 pm Next Position READING DEPOT ENTRY C
+[2019-06-10T17:03:13.903] [DEBUG] default - Event ARRIVAL Position TWYFORD Expected 6:02:30 pm Actual 6:05:00 pm Next Position MAIDENHEAD
+[2019-06-10T17:03:13.903] [DEBUG] default - Event DEPARTURE Position SOUTHALL Expected 6:02:00 pm Actual 6:02:00 pm Next Position ACTON WEST
+[2019-06-10T17:03:13.903] [DEBUG] default - Event ARRIVAL Position STOCKLEY JUNCTION Expected 6:04:30 pm Actual 6:03:00 pm Next Position HEATHROW AIRPORT JUNCTION
+[2019-06-10T17:03:13.904] [DEBUG] default - Event DEPARTURE Position MARSHFIELD Expected 6:02:30 pm Actual 6:03:00 pm Next Position EBBW JN
+[2019-06-10T17:03:23.877] [DEBUG] default - Event ARRIVAL Position BRISTOL PARKWAY Expected 6:00:30 pm Actual 6:03:00 pm Next Position WESTERLEIGH JN
+[2019-06-10T17:03:23.877] [DEBUG] default - Event ARRIVAL Position SLOUGH Expected 6:03:00 pm Actual 6:04:00 pm Next Position SLOUGH WEST
+[2019-06-10T17:03:23.877] [DEBUG] default - Event DEPARTURE Position ACTON WEST Expected 6:03:30 pm Actual 6:03:00 pm Next Position SOUTHALL
+[2019-06-10T17:03:23.877] [DEBUG] default - Event ARRIVAL Position AVONMOUTH DOCK JN Expected 6:00:00 pm Actual 6:05:00 pm Next Position 
+[2019-06-10T17:03:23.877] [DEBUG] default - Event ARRIVAL Position GORING & STREATLEY Expected 6:02:00 pm Actual 6:04:00 pm Next Position READING HIGH LEVEL JN
+[2019-06-10T17:03:33.874] [DEBUG] default - Event ARRIVAL Position GOMSHALL Expected 6:05:00 pm Actual 6:04:00 pm Next Position DORKING WEST
+[2019-06-10T17:03:33.874] [DEBUG] default - Event DEPARTURE Position STOCKLEY JUNCTION Expected 6:04:30 pm Actual 6:03:00 pm Next Position HEATHROW AIRPORT JUNCTION
+[2019-06-10T17:03:33.874] [DEBUG] default - Event DEPARTURE Position OLDFIELD PARK Expected 6:02:30 pm Actual 6:02:00 pm Next Position BATH SPA
+[2019-06-10T17:03:33.874] [DEBUG] default - Event DEPARTURE Position LONDON LADBROKE GROVE Expected 6:03:30 pm Actual 6:03:00 pm Next Position ACTON WEST
+[2019-06-10T17:03:33.874] [DEBUG] default - Event DEPARTURE Position CARDIFF CENTRAL Expected 6:04:00 pm Actual 6:03:00 pm Next Position CARDIFF SIGNAL 7048
+[2019-06-10T17:03:33.874] [DEBUG] default - Event ARRIVAL Position TORQUAY Expected 6:01:00 pm Actual 6:04:00 pm Next Position TORRE
+[2019-06-10T17:03:43.904] [DEBUG] default - Event ARRIVAL Position ST DENYS Expected 6:03:30 pm Actual 6:03:00 pm Next Position NORTHAM JUNCTION
+[2019-06-10T17:03:43.904] [DEBUG] default - Event ARRIVAL Position LAWRENCE HILL Expected 6:00:30 pm Actual 6:04:00 pm Next Position DR DAY'S JN
+[2019-06-10T17:03:43.904] [DEBUG] default - Event DEPARTURE Position STAPLETON ROAD Expected 5:59:00 pm Actual 6:03:00 pm Next Position LAWRENCE HILL
+[2019-06-10T17:03:43.904] [DEBUG] default - Event undefined Position  Expected Invalid date Actual Invalid date Next Position 
+[2019-06-10T17:03:43.905] [DEBUG] default - Event ARRIVAL Position NEWBURY Expected 6:06:00 pm Actual 6:04:00 pm Next Position KINTBURY SIGNAL UW57
+[2019-06-10T17:03:43.905] [DEBUG] default - Event ARRIVAL Position CROWTHORNE Expected 6:05:30 pm Actual 6:05:00 pm Next Position SANDHURST
+[2019-06-10T17:03:43.905] [DEBUG] default - Event DEPARTURE Position READING Expected 6:03:00 pm Actual 6:03:00 pm Next Position READING HIGH LEVEL JN
+[2019-06-10T17:03:43.905] [DEBUG] default - Event undefined Position  Expected Invalid date Actual Invalid date Next Position 
+[2019-06-10T17:03:43.905] [DEBUG] default - Event undefined Position  Expected Invalid date Actual Invalid date Next Position 
+[2019-06-10T17:03:43.905] [DEBUG] default - Event undefined Position  Expected Invalid date Actual Invalid date Next Position 
+[2019-06-10T17:03:53.863] [DEBUG] default - Event ARRIVAL Position TAUNTON SIGNAL E617 Expected 6:03:00 pm Actual 6:05:00 pm Next Position NORTON FITZWARREN
+[2019-06-10T17:03:53.863] [DEBUG] default - Event ARRIVAL Position TOPSHAM Expected 6:04:30 pm Actual 6:04:00 pm Next Position NEWCOURT
+[2019-06-10T17:03:53.863] [DEBUG] default - Event DEPARTURE Position CHALLOW Expected 6:04:30 pm Actual 6:03:00 pm Next Position UFFINGTON
+[2019-06-10T17:03:53.863] [DEBUG] default - Event DEPARTURE Position GORING & STREATLEY Expected 6:03:30 pm Actual 6:03:00 pm Next Position DIDCOT PARKWAY
+[2019-06-10T17:03:53.863] [DEBUG] default - Event DEPARTURE Position LINK LINE <PADDINGTON> Expected 6:03:00 pm Actual 6:03:00 pm Next Position ROYAL OAK JUNCTION
+[2019-06-10T17:04:03.894] [DEBUG] default - Event ARRIVAL Position EALING BROADWAY Expected Invalid date Actual 6:04:00 pm Next Position 
+[2019-06-10T17:04:03.894] [DEBUG] default - Event ARRIVAL Position SHALFORD Expected 6:01:30 pm Actual 6:05:00 pm Next Position SHALFORD JN
+[2019-06-10T17:04:03.894] [DEBUG] default - Event DEPARTURE Position KENNINGTON JN POINTS HEATERS Expected 6:03:30 pm Actual 6:04:00 pm Next Position DIDCOT NORTH JN
+[2019-06-10T17:04:03.894] [DEBUG] default - Event DEPARTURE Position PILNING Expected 6:03:30 pm Actual 6:02:00 pm Next Position PATCHWAY
+[2019-06-10T17:04:03.894] [DEBUG] default - Event DEPARTURE Position HEATHROW AIRPORT JUNCTION Expected 6:05:00 pm Actual 6:03:00 pm Next Position SOUTHALL
+[2019-06-10T17:04:03.894] [DEBUG] default - Event DEPARTURE Position GORING & STREATLEY Expected 6:02:00 pm Actual 6:02:00 pm Next Position READING HIGH LEVEL JN
+[2019-06-10T17:04:03.894] [DEBUG] default - Event DEPARTURE Position ST DENYS Expected 6:03:30 pm Actual 6:03:00 pm Next Position NORTHAM JUNCTION
+[2019-06-10T17:04:03.894] [DEBUG] default - Event DEPARTURE Position NEWBURY Expected 6:03:00 pm Actual 6:03:00 pm Next Position NEWBURY RACECOURSE
+[2019-06-10T17:04:03.895] [DEBUG] default - Event ARRIVAL Position NEWBURY RACECOURSE Expected 6:05:00 pm Actual 6:05:00 pm Next Position THATCHAM
+[2019-06-10T17:04:03.895] [DEBUG] default - Event DEPARTURE Position WINDSOR & ETON CENTRAL Expected 5:59:00 pm Actual 5:59:00 pm Next Position SLOUGH
+[2019-06-10T17:04:03.895] [DEBUG] default - Event DEPARTURE Position BLACKWATER Expected 6:02:30 pm Actual 6:03:00 pm Next Position WOKINGHAM
+[2019-06-10T17:04:03.895] [DEBUG] default - Event DEPARTURE Position EXETER ST DAVIDS Expected 6:02:30 pm Actual 6:03:00 pm Next Position COWLEY BRIDGE JN
+[2019-06-10T17:04:13.895] [DEBUG] default - Event DEPARTURE Position CHARFIELD Expected 6:03:30 pm Actual 6:04:00 pm Next Position YATE
+[2019-06-10T17:04:13.896] [DEBUG] default - Event ARRIVAL Position GORING & STREATLEY Expected 6:06:00 pm Actual 6:05:00 pm Next Position CHOLSEY
+[2019-06-10T17:04:13.896] [DEBUG] default - Event ARRIVAL Position EXMOUTH Expected 5:16:00 pm Actual 5:16:00 pm Next Position 
+[2019-06-10T17:04:13.896] [DEBUG] default - Event ARRIVAL Position EXMOUTH Expected 5:48:00 pm Actual 5:48:00 pm Next Position 
+[2019-06-10T17:04:13.896] [DEBUG] default - Event DEPARTURE Position EXMOUTH Expected 5:53:00 pm Actual 5:53:00 pm Next Position LYMPSTONE VILLAGE
+[2019-06-10T17:04:13.896] [DEBUG] default - Event DEPARTURE Position TWYFORD Expected 6:02:30 pm Actual 6:03:00 pm Next Position MAIDENHEAD
+[2019-06-10T17:04:13.897] [DEBUG] default - Event ARRIVAL Position BATH SPA Expected 6:04:30 pm Actual 6:04:00 pm Next Position BATHAMPTON JN
+[2019-06-10T17:04:13.897] [DEBUG] default - Event ARRIVAL Position EXETER ST THOMAS Expected 6:07:00 pm Actual 6:04:00 pm Next Position EXETER ST DAVIDS
+[2019-06-10T17:04:13.897] [DEBUG] default - Event DEPARTURE Position READING Expected 6:04:00 pm Actual 6:03:00 pm Next Position KENNET BRIDGE JN
+[2019-06-10T17:04:23.862] [DEBUG] default - Event ARRIVAL Position HAYES & HARLINGTON Expected 5:59:00 pm Actual 6:04:00 pm Next Position HEATHROW AIRPORT JUNCTION
+[2019-06-10T17:04:23.862] [DEBUG] default - Event ARRIVAL Position NEWTON ABBOT Expected 6:00:00 pm Actual 6:04:00 pm Next Position NEWTON ABBOT WEST JUNCTION
+[2019-06-10T17:04:23.862] [DEBUG] default - Event DEPARTURE Position DIDCOT EAST JN Expected 6:06:30 pm Actual 6:04:00 pm Next Position DIDCOT NORTH JN
+[2019-06-10T17:04:23.862] [DEBUG] default - Event DEPARTURE Position EALING BROADWAY Expected Invalid date Actual 6:03:00 pm Next Position 
+[2019-06-10T17:04:23.862] [DEBUG] default - Event ARRIVAL Position WOODBOROUGH Expected 6:00:00 pm Actual 6:04:00 pm Next Position PEWSEY
+[2019-06-10T17:04:23.863] [DEBUG] default - Event ARRIVAL Position SLOUGH Expected 6:07:00 pm Actual 6:05:00 pm Next Position MAIDENHEAD
+[2019-06-10T17:04:23.863] [DEBUG] default - Event DEPARTURE Position READING HIGH LEVEL JN Expected 6:04:30 pm Actual 6:04:00 pm Next Position GORING & STREATLEY
+[2019-06-10T17:04:33.888] [DEBUG] default - Event DEPARTURE Position MAINDEE WEST JN Expected 6:01:30 pm Actual 6:04:00 pm Next Position NEWPORT (SOUTH WALES)
+[2019-06-10T17:04:33.888] [DEBUG] default - Event DEPARTURE Position READING WEST JUNCTION Expected 6:04:30 pm Actual 6:04:00 pm Next Position TILEHURST
+[2019-06-10T17:04:33.888] [DEBUG] default - Event DEPARTURE Position KENNET BRIDGE JN Expected 6:06:30 pm Actual 6:04:00 pm Next Position READING
+[2019-06-10T17:04:33.888] [DEBUG] default - Event DEPARTURE Position MAIDENHEAD Expected 6:04:00 pm Actual 6:03:00 pm Next Position TAPLOW
+[2019-06-10T17:04:33.889] [DEBUG] default - Event DEPARTURE Position WARMINSTER Expected 6:00:00 pm Actual 6:03:00 pm Next Position WESTBURY WILTS
+[2019-06-10T17:04:33.889] [DEBUG] default - Event DEPARTURE Position BRISTOL EAST JN Expected 5:59:30 pm Actual 6:04:00 pm Next Position BRISTOL TM PLAT 2 MOTORAIL DK
+[2019-06-10T17:04:33.889] [DEBUG] default - Event ARRIVAL Position BRISTOL TM PLAT 2 MOTORAIL DK Expected 6:01:00 pm Actual 6:05:00 pm Next Position BRISTOL EAST JN
+[2019-06-10T17:04:33.889] [DEBUG] default - Event ARRIVAL Position TWYFORD Expected 6:04:30 pm Actual 6:04:00 pm Next Position KENNET BRIDGE JN
+[2019-06-10T17:04:33.889] [DEBUG] default - Event DEPARTURE Position SLOUGH Expected 6:03:00 pm Actual 6:04:00 pm Next Position SLOUGH WEST
+[2019-06-10T17:04:43.860] [DEBUG] default - Event DEPARTURE Position DEVONPORT Expected 6:04:30 pm Actual 6:04:00 pm Next Position DOCKYARD
+[2019-06-10T17:04:43.860] [DEBUG] default - Event DEPARTURE Position ROYAL OAK JUNCTION Expected 6:04:00 pm Actual 6:04:00 pm Next Position PORTOBELLO JN
+[2019-06-10T17:04:43.861] [DEBUG] default - Event DEPARTURE Position DR DAY'S JN Expected 5:57:00 pm Actual 6:04:00 pm Next Position NARROWAYS HILL JN
+[2019-06-10T17:04:43.861] [DEBUG] default - Event DEPARTURE Position READING PLATFORMS 4A&B Expected 6:04:00 pm Actual 6:03:00 pm Next Position READING SPUR JN
+[2019-06-10T17:04:48.860] [DEBUG] default - Event ARRIVAL Position SLOUGH Expected 6:05:00 pm Actual 6:05:00 pm Next Position 
+[2019-06-10T17:04:48.860] [DEBUG] default - Event DEPARTURE Position TWYFORD Expected 6:04:30 pm Actual 6:04:00 pm Next Position KENNET BRIDGE JN
+[2019-06-10T17:04:48.861] [DEBUG] default - Event DEPARTURE Position KENNET BRIDGE JN Expected 6:06:00 pm Actual 6:05:00 pm Next Position TWYFORD
+[2019-06-10T17:04:58.871] [DEBUG] default - Event ARRIVAL Position HOVE Expected 6:05:00 pm Actual 6:05:00 pm Next Position SHOREHAM-BY-SEA  (WEST SUSSEX)
+[2019-06-10T17:04:58.871] [DEBUG] default - Event DEPARTURE Position HEMERDON Expected 6:05:30 pm Actual 6:05:00 pm Next Position IVYBRIDGE
+[2019-06-10T17:04:58.871] [DEBUG] default - Event DEPARTURE Position READING Expected 6:04:00 pm Actual 6:04:00 pm Next Position OXFORD ROAD JN
+[2019-06-10T17:04:58.872] [DEBUG] default - Event DEPARTURE Position UFFINGTON Expected 6:05:30 pm Actual 6:04:00 pm Next Position SWINDON
+[2019-06-10T17:05:08.873] [DEBUG] default - Event DEPARTURE Position SOUTHCOTE JN Expected 6:05:00 pm Actual 6:05:00 pm Next Position NEWBURY
+[2019-06-10T17:05:08.873] [DEBUG] default - Event ARRIVAL Position SOUTHALL Expected 6:06:00 pm Actual 6:05:00 pm Next Position ACTON WEST
+[2019-06-10T17:05:08.873] [DEBUG] default - Event DEPARTURE Position NORTH POLE IEP DEPOT Expected 5:58:00 pm Actual 6:04:00 pm Next Position LONDON LADBROKE GROVE
+[2019-06-10T17:05:08.873] [DEBUG] default - Event ARRIVAL Position WORCESTER SHRUB HILL Expected 6:04:00 pm Actual 6:04:00 pm Next Position WORCESTER NORTON JUNCTION
+[2019-06-10T17:05:08.874] [DEBUG] default - Event DEPARTURE Position AISH EMERGENCY CROSSOVER Expected 6:04:00 pm Actual 6:05:00 pm Next Position IVYBRIDGE
+[2019-06-10T17:05:08.874] [DEBUG] default - Event DEPARTURE Position CHIPPENHAM Expected 5:56:00 pm Actual 6:02:00 pm Next Position WOOTTON BASSETT JN
+[2019-06-10T17:05:08.874] [DEBUG] default - Event ARRIVAL Position IVYBRIDGE Expected 6:08:00 pm Actual 6:09:00 pm Next Position HEMERDON
+[2019-06-10T17:05:08.874] [DEBUG] default - Event DEPARTURE Position WOODBOROUGH Expected 6:00:00 pm Actual 6:04:00 pm Next Position PEWSEY
+[2019-06-10T17:05:18.870] [DEBUG] default - Event DEPARTURE Position SOUTHALL Expected 6:04:30 pm Actual 6:03:00 pm Next Position WEST EALING
+[2019-06-10T17:05:18.870] [DEBUG] default - Event DEPARTURE Position STROUD Expected 6:04:30 pm Actual 6:04:00 pm Next Position ST. MARY'S LEVEL CROSSING
+[2019-06-10T17:05:18.870] [DEBUG] default - Event DEPARTURE Position DAWLISH WARREN Expected 6:04:30 pm Actual 6:04:00 pm Next Position EXETER ST DAVIDS
+[2019-06-10T17:05:23.870] [DEBUG] default - Event DEPARTURE Position PARSON STREET Expected 6:00:30 pm Actual 6:05:00 pm Next Position NAILSEA & BACKWELL
+[2019-06-10T17:05:23.870] [DEBUG] default - Event ARRIVAL Position STAPLETON ROAD Expected Invalid date Actual 6:06:00 pm Next Position 
+[2019-06-10T17:05:23.870] [DEBUG] default - Event DEPARTURE Position SOUTHALL Expected 6:06:00 pm Actual 6:04:00 pm Next Position ACTON WEST
+[2019-06-10T17:05:33.906] [DEBUG] default - Event DEPARTURE Position BASINGSTOKE EAST BAY Expected 6:04:00 pm Actual 6:04:00 pm Next Position BRAMLEY (HANTS)
+[2019-06-10T17:05:33.906] [DEBUG] default - Event DEPARTURE Position ACTON WEST Expected 6:05:30 pm Actual 6:05:00 pm Next Position EALING BROADWAY
+[2019-06-10T17:05:33.906] [DEBUG] default - Event ARRIVAL Position MAIDENHEAD Expected 6:08:00 pm Actual 6:06:00 pm Next Position 
+[2019-06-10T17:05:33.906] [DEBUG] default - Event ARRIVAL Position READING Expected 6:04:00 pm Actual 6:06:00 pm Next Position 
+[2019-06-10T17:05:33.906] [DEBUG] default - Event DEPARTURE Position ACTON WEST Expected 6:04:00 pm Actual 6:05:00 pm Next Position LONDON LADBROKE GROVE
+[2019-06-10T17:05:33.906] [DEBUG] default - Event ARRIVAL Position TAPLOW Expected 6:06:30 pm Actual 6:06:00 pm Next Position BURNHAM
+[2019-06-10T17:05:33.906] [DEBUG] default - Event ARRIVAL Position NEWPORT (SOUTH WALES) Expected 6:03:00 pm Actual 6:06:00 pm Next Position EBBW JN
+[2019-06-10T17:05:33.907] [DEBUG] default - Event DEPARTURE Position WEST DRAYTON Expected 6:05:00 pm Actual 6:05:00 pm Next Position HEATHROW AIRPORT JUNCTION
+[2019-06-10T17:05:33.907] [DEBUG] default - Event DEPARTURE Position DIDCOT NORTH JN Expected 6:07:30 pm Actual 6:05:00 pm Next Position KENNINGTON JN POINTS HEATERS
+[2019-06-10T17:05:33.907] [DEBUG] default - Event DEPARTURE Position PORTOBELLO JN Expected 6:05:30 pm Actual 6:05:00 pm Next Position LONDON LADBROKE GROVE
+[2019-06-10T17:05:33.907] [DEBUG] default - Event ARRIVAL Position THATCHAM Expected 6:07:30 pm Actual 6:07:00 pm Next Position NEWBURY
+[2019-06-10T17:05:33.907] [DEBUG] default - Event DEPARTURE Position COWLEY BRIDGE JN Expected 6:05:00 pm Actual 6:05:00 pm Next Position TIVERTON JUNCTION
+[2019-06-10T17:05:33.907] [DEBUG] default - Event ARRIVAL Position STARCROSS Expected 6:07:00 pm Actual 6:05:00 pm Next Position DAWLISH WARREN
+[2019-06-10T17:05:43.873] [DEBUG] default - Event DEPARTURE Position TILEHURST Expected 5:53:00 pm Actual 6:05:00 pm Next Position READING WEST JUNCTION
+[2019-06-10T17:05:43.873] [DEBUG] default - Event undefined Position  Expected Invalid date Actual Invalid date Next Position 
+[2019-06-10T17:05:43.873] [DEBUG] default - Event ARRIVAL Position BRISTOL PARKWAY Expected 6:07:00 pm Actual 6:06:00 pm Next Position PATCHWAY
+[2019-06-10T17:05:43.873] [DEBUG] default - Event DEPARTURE Position HENLEY-ON-THAMES Expected 6:05:00 pm Actual 6:04:00 pm Next Position SHIPLAKE
+[2019-06-10T17:05:43.873] [DEBUG] default - Event DEPARTURE Position SOUTHCOTE JN Expected 6:06:00 pm Actual 6:06:00 pm Next Position OXFORD ROAD JN
+[2019-06-10T17:05:43.873] [DEBUG] default - Event undefined Position  Expected Invalid date Actual Invalid date Next Position 
+[2019-06-10T17:05:53.870] [DEBUG] default - Event DEPARTURE Position APPLEFORD XNG SIGNALLING Expected 6:04:00 pm Actual 6:04:00 pm Next Position CULHAM
+[2019-06-10T17:05:53.870] [DEBUG] default - Event DEPARTURE Position ST. MARY'S LEVEL CROSSING Expected 6:00:30 pm Actual 6:06:00 pm Next Position STROUD
+[2019-06-10T17:05:53.871] [DEBUG] default - Event DEPARTURE Position READING SPUR JN Expected 6:06:00 pm Actual 6:06:00 pm Next Position EARLEY
+[2019-06-10T17:06:03.863] [DEBUG] default - Event DEPARTURE Position ROYAL OAK JUNCTION Expected 6:06:00 pm Actual 6:06:00 pm Next Position LINK LINE <PADDINGTON>
+[2019-06-10T17:06:03.863] [DEBUG] default - Event ARRIVAL Position SWINDON Expected 6:03:00 pm Actual 6:07:00 pm Next Position 
+[2019-06-10T17:06:03.863] [DEBUG] default - Event DEPARTURE Position EBBW JN Expected 6:05:00 pm Actual 6:05:00 pm Next Position NEWPORT (SOUTH WALES)
+[2019-06-10T17:06:03.863] [DEBUG] default - Event ARRIVAL Position SLOUGH Expected 6:05:30 pm Actual 6:07:00 pm Next Position MAIDENHEAD
+[2019-06-10T17:06:03.863] [DEBUG] default - Event DEPARTURE Position DOWN BAY SIDING Expected 6:05:30 pm Actual 6:05:00 pm Next Position NORTHAM JUNCTION
+[2019-06-10T17:06:03.863] [DEBUG] default - Event ARRIVAL Position PAR Expected 5:57:30 pm Actual 6:00:00 pm Next Position ST AUSTELL
+[2019-06-10T17:06:03.863] [DEBUG] default - Event DEPARTURE Position PAR Expected 5:58:30 pm Actual 6:01:00 pm Next Position ST AUSTELL
+[2019-06-10T17:06:08.862] [DEBUG] default - Event DEPARTURE Position NARROWAYS HILL JN Expected 5:58:30 pm Actual 6:06:00 pm Next Position HORFIELD JUNCTION
+[2019-06-10T17:06:08.862] [DEBUG] default - Event DEPARTURE Position STAPLETON ROAD Expected Invalid date Actual 6:05:00 pm Next Position 
+[2019-06-10T17:06:08.862] [DEBUG] default - Event ARRIVAL Position CHOLSEY Expected 6:07:00 pm Actual 6:07:00 pm Next Position GORING & STREATLEY
+[2019-06-10T17:06:08.863] [DEBUG] default - Event ARRIVAL Position EALING BROADWAY Expected 6:06:30 pm Actual 6:06:00 pm Next Position SOUTHALL
+[2019-06-10T17:06:08.863] [DEBUG] default - Event DEPARTURE Position ACTON WEST Expected 6:06:30 pm Actual 6:05:00 pm Next Position SOUTHALL
+[2019-06-10T17:06:08.863] [DEBUG] default - Event ARRIVAL Position SLOUGH Expected 6:07:30 pm Actual 6:07:00 pm Next Position STOCKLEY JUNCTION
+[2019-06-10T17:06:08.863] [DEBUG] default - Event ARRIVAL Position OXFORD ROAD JN Expected 6:06:00 pm Actual 6:06:00 pm Next Position READING WEST
+[2019-06-10T17:06:08.863] [DEBUG] default - Event ARRIVAL Position PATCHWAY Expected 6:08:00 pm Actual 6:06:00 pm Next Position FILTON ABBEYWOOD
+[2019-06-10T17:06:18.870] [DEBUG] default - Event ARRIVAL Position PEWSEY Expected 6:03:00 pm Actual 6:07:00 pm Next Position BEDWYN
+[2019-06-10T17:06:18.870] [DEBUG] default - Event DEPARTURE Position SHALFORD Expected 6:02:30 pm Actual 6:05:00 pm Next Position SHALFORD JN
+[2019-06-10T17:06:18.870] [DEBUG] default - Event DEPARTURE Position LINK LINE <PADDINGTON> Expected 5:54:00 pm Actual 6:05:00 pm Next Position ROYAL OAK SIDINGS
+[2019-06-10T17:06:18.870] [DEBUG] default - Event ARRIVAL Position WEST EALING Expected 6:07:30 pm Actual 6:07:00 pm Next Position EALING BROADWAY
+[2019-06-10T17:06:18.871] [DEBUG] default - Event ARRIVAL Position TILEHURST Expected 6:06:30 pm Actual 6:07:00 pm Next Position PANGBOURNE
+[2019-06-10T17:06:18.871] [DEBUG] default - Event DEPARTURE Position TORQUAY Expected 6:02:00 pm Actual 6:05:00 pm Next Position TORRE
+[2019-06-10T17:06:18.871] [DEBUG] default - Event ARRIVAL Position TORRE Expected 6:04:00 pm Actual 6:07:00 pm Next Position NEWTON ABBOT WEST JUNCTION
+[2019-06-10T17:06:23.861] [DEBUG] default - Event DEPARTURE Position NEWBURY RACECOURSE Expected 6:05:30 pm Actual 6:05:00 pm Next Position THATCHAM
+[2019-06-10T17:06:23.861] [DEBUG] default - Event DEPARTURE Position LAVINGTON Expected 6:06:30 pm Actual 6:06:00 pm Next Position WOODBOROUGH
+[2019-06-10T17:06:23.861] [DEBUG] default - Event DEPARTURE Position GOMSHALL Expected 6:06:00 pm Actual 6:05:00 pm Next Position DORKING WEST
+[2019-06-10T17:06:38.862] [DEBUG] default - Event DEPARTURE Position TAUNTON SIGNAL E617 Expected 6:06:00 pm Actual 6:05:00 pm Next Position COGLOAD JUNCTION
+[2019-06-10T17:06:38.863] [DEBUG] default - Event ARRIVAL Position PAR Expected 6:04:00 pm Actual 6:03:00 pm Next Position LOSTWITHIEL
+[2019-06-10T17:06:38.863] [DEBUG] default - Event DEPARTURE Position PAR Expected 6:05:30 pm Actual 6:05:00 pm Next Position LOSTWITHIEL
+[2019-06-10T17:06:38.863] [DEBUG] default - Event DEPARTURE Position HAYES & HARLINGTON Expected 6:00:00 pm Actual 6:05:00 pm Next Position HEATHROW AIRPORT JUNCTION
+[2019-06-10T17:06:38.863] [DEBUG] default - Event DEPARTURE Position HEATHROW AIRPORT JUNCTION Expected 6:01:00 pm Actual 6:06:00 pm Next Position WEST DRAYTON
+[2019-06-10T17:06:38.863] [DEBUG] default - Event undefined Position  Expected Invalid date Actual Invalid date Next Position 
+[2019-06-10T17:06:38.863] [DEBUG] default - Event DEPARTURE Position WORCESTER SHRUB HILL Expected 6:07:00 pm Actual 6:06:00 pm Next Position WORCESTER NORTON JUNCTION
+[2019-06-10T17:06:38.863] [DEBUG] default - Event DEPARTURE Position WESTBURY WILTS Expected 6:05:00 pm Actual 6:06:00 pm Next Position WARMINSTER
+[2019-06-10T17:06:38.863] [DEBUG] default - Stopping subscriptions
+[2019-06-10T17:06:38.864] [DEBUG] default - Disconnecting
